@@ -22,3 +22,11 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+===================
+
+Changes in part 1:
+
+1. changed the font of header and each paragraphes to "Times New Roman", Times, serif.  
+2. changed the background image.  
+3. changed the size and border radius of image.  
+4. change the font color.  
