@@ -1,0 +1,62 @@
+body {
+    background-color:rgb(255, 251, 0);
+}
+
+h1 {
+    color:#98fd00;
+    text-align: center;
+}
+
+h2 {
+    color:rgba(0, 0, 0, 0.699);
+    text-align: center;
+}
+
+p {
+    color:#98fd00;
+    font-family: sans-serif;
+}
+
+ul li{
+    color: #98fd00;
+    font-family: sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#who {
+    background-color: rgba(239, 255, 92, 0.37);
+    
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#project {
+    background-color: rgba(239, 255, 92, 0.37);
+
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#job {
+    background-color: rgba(239, 255, 92, 0.37);
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#skill {
+    background-color: rgba(239, 255, 92, 0.37);
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#email {
+    background-color: rgba(239, 255, 92, 0.37);
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+img {
+    width: 15%;
+    margin-left: 10%;
+}

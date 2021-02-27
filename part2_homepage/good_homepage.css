@@ -1,0 +1,74 @@
+body {
+    background-color:rgba(239, 255, 92, 0.37);
+}
+
+h1 {
+    color:#EDF5E1;
+    text-align: center;
+}
+
+h2 {
+    color:rgba(0, 165, 206, 0.699);
+    text-align: center;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+ul li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#who {
+    background-color: rgba(239, 255, 92, 0.37);
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#project {
+    background-color: rgba(239, 255, 92, 0.37);
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#job {
+    background-color: rgba(239, 255, 92, 0.37);
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#skill {
+    background-color: rgba(239, 255, 92, 0.37);
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#email {
+    background-color: rgba(239, 255, 92, 0.37);
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+img {
+    width: 15%;
+    height: auto;
+    margin-left: 43%;
+    border-radius: 5rem;
+}
